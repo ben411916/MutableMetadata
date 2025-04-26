@@ -1,9 +1,9 @@
 {
     "name": "Mutable Token",
     "symbol": "MUTB",
-    "uri": "https://yourdomain.com/metadata.json",
+    "uri": "https://github.com/ben411916/MutableMetadata/blob/main/metadata.json",
     "description": "This is a test token for Mutable",
-    "image": "https://yourdomain.com/token_image.png",
+    "image": "https://github.com/ben411916/MutableMetadata/blob/main/MutableTokenImage.png",
     "attributes": [
       {
         "trait_type": "Utility",
